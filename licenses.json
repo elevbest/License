@@ -47,6 +47,14 @@
       "enabled": true,
       "installed": "2026-10-05T00:19:00.466Z",
       "expires": "2026-11-04T00:19:00.466Z"
+    },
+    {
+      "app": "BOOKING_QUEUE",
+      "shop_id": "POOL",
+      "installation_id": "718921070550B73627DE26C5A4549E33",
+      "enabled": true,
+      "installed": "2026-10-05T00:31:04.147Z",
+      "expires": "2026-11-04T00:31:04.147Z"
     }
   ]
 }
