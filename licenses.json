@@ -15,6 +15,14 @@
       "enabled": true,
       "installed": "2026-10-06T12:42:26.964Z",
       "expires": "2026-11-05T12:42:26.964Z"
+    },
+    {
+      "app": "BOOKING_QUEUE",
+      "shop_id": "ELEV21",
+      "installation_id": "CC24FAC90F5AB05925EF4AA07CFC702B",
+      "enabled": true,
+      "installed": "2026-10-06T12:42:55.211Z",
+      "expires": "2026-11-05T12:42:55.211Z"
     }
   ]
 }
