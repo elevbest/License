@@ -31,6 +31,14 @@
       "enabled": true,
       "installed": "2026-10-06T13:42:01.398Z",
       "expires": "2026-11-05T13:42:01.398Z"
+    },
+    {
+      "app": "POOL_HELPER_BETKING",
+      "shop_id": "SOLOBERRY",
+      "installation_id": "C80A7ED6DC3075940F012DEDCE164829",
+      "enabled": true,
+      "installed": "2026-10-06T13:43:13.961Z",
+      "expires": "2026-11-05T13:43:13.961Z"
     }
   ]
 }
