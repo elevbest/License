@@ -7,6 +7,14 @@
       "enabled": true,
       "installed": "2026-10-04T20:25:19.635Z",
       "expires": "2026-11-03T20:25:19.635Z"
+    },
+    {
+      "app": "POOL_HELPER_BETKING",
+      "shop_id": "TTTTTTTTTTE",
+      "installation_id": "C6336E12F036248E2DA9E862BFBEF453",
+      "enabled": true,
+      "installed": "2026-10-06T12:33:34.482Z",
+      "expires": "2026-11-05T12:33:34.482Z"
     }
   ]
 }
