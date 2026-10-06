@@ -7,30 +7,6 @@
       "enabled": true,
       "installed": "2026-10-04T20:25:19.635Z",
       "expires": "2026-11-03T20:25:19.635Z"
-    },
-    {
-      "app": "POOL_HELPER_BETKING",
-      "shop_id": "ELEV BETKING",
-      "installation_id": "A1745AA08ADFC064F246414ED68C2EC9",
-      "enabled": true,
-      "installed": "2026-10-06T08:39:50.288Z",
-      "expires": "2026-11-05T08:39:50.288Z"
-    },
-    {
-      "app": "BOOKING_QUEUE",
-      "shop_id": "ELEV2",
-      "installation_id": "B593D10DFFF88CD5C6DE475114CBA89F",
-      "enabled": true,
-      "installed": "2026-10-06T09:28:25.824Z",
-      "expires": "2026-11-05T09:28:25.824Z"
-    },
-    {
-      "app": "POOL_HELPER_BET9JA",
-      "shop_id": "TESTED",
-      "installation_id": "7276D72A5F0E6D553EFACF6F8011BAC0",
-      "enabled": true,
-      "installed": "2026-10-06T11:56:27.394Z",
-      "expires": "2026-11-05T11:56:27.394Z"
     }
   ]
 }
