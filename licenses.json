@@ -23,6 +23,14 @@
       "enabled": true,
       "installed": "2026-10-06T12:42:55.211Z",
       "expires": "2026-11-05T12:42:55.211Z"
+    },
+    {
+      "app": "BOOKING_QUEUE",
+      "shop_id": "SOLOBERRY",
+      "installation_id": "18581F00BD9796CF4E137D701460AF5D",
+      "enabled": true,
+      "installed": "2026-10-06T13:42:01.398Z",
+      "expires": "2026-11-05T13:42:01.398Z"
     }
   ]
 }
