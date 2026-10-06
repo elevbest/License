@@ -15,6 +15,14 @@
       "enabled": true,
       "installed": "2026-10-06T12:33:34.482Z",
       "expires": "2026-11-05T12:33:34.482Z"
+    },
+    {
+      "app": "BOOKING_QUEUE",
+      "shop_id": "RRRRRRRRRRRRRRRREE",
+      "installation_id": "A45530325EF2539A57232B81AF79BDA9",
+      "enabled": true,
+      "installed": "2026-10-06T12:34:53.798Z",
+      "expires": "2026-11-05T12:34:53.798Z"
     }
   ]
 }
