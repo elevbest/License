@@ -22,7 +22,8 @@
       "installation_id": "CC24FAC90F5AB05925EF4AA07CFC702B",
       "enabled": true,
       "installed": "2026-10-06T12:42:55.211Z",
-      "expires": "2026-11-05T12:42:55.211Z"
+      "expires": "2026-11-05T12:42:55.211Z",
+      "machine_id": "A50A373A413A43B8FCB5BBC36C0A8F1714BE373AAF9D98A9F58A5B5788F74DF5"
     },
     {
       "app": "BOOKING_QUEUE",
