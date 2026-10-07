@@ -26,7 +26,7 @@
     },
     {
       "app": "BOOKING_QUEUE",
-      "shop_id": "ELEV22",
+      "shop_id": "ELEV21",
       "machine_id": "A50A373A413A43B8FCB5BBC36C0A8F1714BE373AAF9D98A9F58A5B5788F74DF5",
       "enabled": true,
       "installed": "2026-10-07T13:58:16.207Z",
@@ -34,7 +34,7 @@
     },
     {
       "app": "POOL_HELPER_BETKING",
-      "shop_id": "ELEV22",
+      "shop_id": "ELEV21",
       "machine_id": "A50A373A413A43B8FCB5BBC36C0A8F1714BE373AAF9D98A9F58A5B5788F74DF5",
       "enabled": true,
       "installed": "2026-10-07T14:06:58.759Z",
