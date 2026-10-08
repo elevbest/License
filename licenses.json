@@ -30,7 +30,8 @@
       "machine_id": "A50A373A413A43B8FCB5BBC36C0A8F1714BE373AAF9D98A9F58A5B5788F74DF5",
       "enabled": true,
       "installed": "2026-10-08T14:02:06.592Z",
-      "expires": "2026-11-07T14:02:06.592Z"
+      "expires": "2026-11-07T14:02:06.592Z",
+      "validatedAt": "2026-10-08T14:08:09.273Z"
     }
   ]
 }
