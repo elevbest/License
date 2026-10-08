@@ -40,6 +40,14 @@
       "installed": "2026-10-08T15:34:33.294Z",
       "expires": "2026-11-07T15:34:33.294Z",
       "validatedAt": "2026-10-08T15:40:02.001Z"
+    },
+    {
+      "app": "POOL_HELPER_BET9JA",
+      "shop_id": "TRIED",
+      "machine_id": "A50A373A413A43B8FCB5BBC36C0A8F1714BE373AAF9D98A9F58A5B5788F74DF5",
+      "enabled": true,
+      "installed": "2026-10-08T15:46:01.773Z",
+      "expires": "2026-11-07T15:46:01.773Z"
     }
   ]
 }
