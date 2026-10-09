@@ -65,6 +65,14 @@
       "enabled": true,
       "installed": "2026-10-09T11:01:08.428Z",
       "expires": "2026-11-08T11:01:08.428Z"
+    },
+    {
+      "app": "POOL_HELPER_BET9JA",
+      "shop_id": "W7 TEST",
+      "machine_id": "DC7415CC8C1AFB2FAE8A536009352ADAAF854CEA42ABC58BF02E1A8A6A5E60F6",
+      "enabled": true,
+      "installed": "2026-10-09T11:02:10.580Z",
+      "expires": "2026-11-08T11:02:10.580Z"
     }
   ]
 }
