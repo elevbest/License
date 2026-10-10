@@ -47,10 +47,11 @@
       "app": "BOOKING_QUEUE",
       "shop_id": "CREATOR",
       "machine_id": "A50A373A413A43B8FCB5BBC36C0A8F1714BE373AAF9D98A9F58A5B5788F74DF5",
-      "enabled": true,
+      "enabled": false,
       "installed": "2026-10-10T07:32:22.650Z",
       "expires": "2026-11-09T07:32:22.650Z",
-      "validatedAt": "2026-10-10T08:43:15.747Z"
+      "validatedAt": "2026-10-10T08:43:15.747Z",
+      "revokedAt": "2026-10-10T08:47:38.201Z"
     }
   ]
 }
