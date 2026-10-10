@@ -35,11 +35,11 @@
     },
     {
       "app": "POOL_HELPER_BETKING",
-      "shop_id": "CREATOR",
+      "shop_id": "CREATOR2",
       "machine_id": "A50A373A413A43B8FCB5BBC36C0A8F1714BE373AAF9D98A9F58A5B5788F74DF5",
       "enabled": true,
       "installed": "2026-10-09T22:25:15.345Z",
-      "expires": "2026-11-08T22:25:15.345Z",
+      "expires": "2026-11-08T22:25:00.000Z",
       "validatedAt": "2026-10-10T08:02:55.896Z"
     },
     {
