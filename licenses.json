@@ -36,6 +36,14 @@
       "expires": "2026-11-09T07:32:00.000Z",
       "validatedAt": "2026-10-11T08:45:40.117Z",
       "revokedAt": "2026-10-10T08:47:38.201Z"
+    },
+    {
+      "app": "POOL_HELPER_BETKING",
+      "shop_id": "SOLOBERRY",
+      "machine_id": "C53DA232C38A2A302412135BF881DD516C4B76F2FDAF80D1525E51B925ED482E",
+      "enabled": true,
+      "installed": "2026-10-11T17:42:46.924Z",
+      "expires": "2026-11-10T17:42:46.924Z"
     }
   ]
 }
