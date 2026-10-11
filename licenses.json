@@ -2,14 +2,6 @@
   "licenses": [
     {
       "app": "BOOKING_QUEUE",
-      "shop_id": "SOLOBERRY",
-      "installation_id": "18581F00BD9796CF4E137D701460AF5D",
-      "enabled": true,
-      "installed": "2026-10-06T13:42:01.398Z",
-      "expires": "2026-11-05T13:42:01.398Z"
-    },
-    {
-      "app": "BOOKING_QUEUE",
       "shop_id": "ADMIN SHOP",
       "machine_id": "4437326D0E6BADA405143B4F34C71FAC39F3127149B6E323C7DE5777F1C87312",
       "enabled": true,
