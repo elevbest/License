@@ -43,7 +43,8 @@
       "machine_id": "C53DA232C38A2A302412135BF881DD516C4B76F2FDAF80D1525E51B925ED482E",
       "enabled": true,
       "installed": "2026-10-11T17:42:46.924Z",
-      "expires": "2026-11-10T17:42:46.924Z"
+      "expires": "2026-11-10T17:42:46.924Z",
+      "validatedAt": "2026-10-12T06:48:06.282Z"
     },
     {
       "app": "BOOKING_QUEUE",
