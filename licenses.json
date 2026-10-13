@@ -79,6 +79,14 @@
       "enabled": true,
       "installed": "2026-10-13T11:20:02.504Z",
       "expires": "2026-11-12T11:20:02.504Z"
+    },
+    {
+      "app": "POOL_HELPER_BET9JA",
+      "shop_id": "KINGSLEY3",
+      "machine_id": "764B57D55B45DBA640C5C1EA6C4FBD7C043DE0B0436B52B222A8B762708D2B12",
+      "enabled": true,
+      "installed": "2026-10-13T11:32:41.466Z",
+      "expires": "2026-11-12T11:32:41.466Z"
     }
   ]
 }
