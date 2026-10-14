@@ -83,7 +83,7 @@
     },
     {
       "app": "BOOKING_QUEUE",
-      "shop_id": "CRETES",
+      "shop_id": "CREATOR",
       "enabled": true,
       "expires": "",
       "machine_id": "a50a373a413a43b8fcb5bbc36c0a8f1714be373aaf9d98a9f58a5b5788f74df5",
