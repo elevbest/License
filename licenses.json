@@ -80,14 +80,6 @@
       "installed": "2026-10-14T09:51:14.396Z",
       "expires": "2026-11-13T09:51:14.396Z",
       "validatedAt": "2026-10-14T10:02:16.260Z"
-    },
-    {
-      "app": "BOOKING_QUEUE",
-      "shop_id": "CREATOR",
-      "enabled": true,
-      "expires": "",
-      "machine_id": "a50a373a413a43b8fcb5bbc36c0a8f1714be373aaf9d98a9f58a5b5788f74df5",
-      "installed": "2026-10-14T12:24:04.092Z"
     }
   ]
 }
