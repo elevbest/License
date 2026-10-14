@@ -100,6 +100,14 @@
       "expires": "2026-11-14T13:36:00.000Z",
       "revokedAt": "2026-10-14T13:39:11.546Z",
       "validatedAt": "2026-10-14T14:05:13.166Z"
+    },
+    {
+      "app": "BOOKING_QUEUE",
+      "shop_id": "CREATOR",
+      "machine_id": "A50A373A413A43B8FCB5BBC36C0A8F1714BE373AAF9D98A9F58A5B5788F74DF5",
+      "enabled": true,
+      "installed": "2026-10-14T14:09:24.882Z",
+      "expires": "2026-11-13T14:09:24.882Z"
     }
   ]
 }
