@@ -1,15 +1,6 @@
 {
   "licenses": [
     {
-      "app": "BOOKING_QUEUE",
-      "shop_id": "ADMIN SHOP",
-      "machine_id": "4437326D0E6BADA405143B4F34C71FAC39F3127149B6E323C7DE5777F1C87312",
-      "enabled": true,
-      "installed": "2026-10-09T10:51:00.198Z",
-      "expires": "2026-11-08T10:51:00.198Z",
-      "validatedAt": "2026-10-13T10:33:14.031Z"
-    },
-    {
       "app": "POOL_HELPER_BETKING",
       "shop_id": "ADMIN SHOP",
       "machine_id": "4437326D0E6BADA405143B4F34C71FAC39F3127149B6E323C7DE5777F1C87312",
