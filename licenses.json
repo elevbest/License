@@ -82,6 +82,14 @@
       "installed": "2026-10-13T14:24:20.668Z",
       "expires": "2026-11-12T14:24:20.668Z",
       "validatedAt": "2026-10-14T07:23:37.994Z"
+    },
+    {
+      "app": "BOOKING_QUEUE",
+      "shop_id": "ADMIN SHOP",
+      "machine_id": "4437326D0E6BADA405143B4F34C71FAC39F3127149B6E323C7DE5777F1C87312",
+      "enabled": true,
+      "installed": "2026-10-14T09:51:00.663Z",
+      "expires": "2026-11-13T09:51:00.663Z"
     }
   ]
 }
