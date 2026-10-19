@@ -118,6 +118,14 @@
       "installed": "2026-10-19T09:20:56.983Z",
       "expires": "2026-11-18T09:20:56.983Z",
       "validatedAt": "2026-10-19T14:42:55.587Z"
+    },
+    {
+      "app": "POOL_HELPER_BETKING",
+      "shop_id": "9828484",
+      "machine_id": "FE37EAEA4FD067C5C99DC75C187D534216D5AAFA880B9B7B954473EFC48386B6",
+      "enabled": true,
+      "installed": "2026-10-19T15:22:27.666Z",
+      "expires": "2026-11-18T15:22:27.666Z"
     }
   ]
 }
