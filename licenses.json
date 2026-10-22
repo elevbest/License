@@ -136,6 +136,14 @@
       "installed": "2026-10-22T13:38:01.055Z",
       "expires": "2026-11-21T13:38:01.055Z",
       "validatedAt": "2026-10-22T13:38:21.306Z"
+    },
+    {
+      "app": "POOL_HELPER_BET9JA",
+      "shop_id": "CASHIER4975-06",
+      "machine_id": "AA8AA76C0803AE63F436DDEC9ADE25677936C5865407B2736FDA1F7A0D268C46",
+      "enabled": true,
+      "installed": "2026-10-22T13:49:46.701Z",
+      "expires": "2026-11-21T13:49:46.701Z"
     }
   ]
 }
