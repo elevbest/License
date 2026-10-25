@@ -88,7 +88,7 @@
       "enabled": true,
       "installed": "2026-10-14T13:04:59.607Z",
       "expires": "2026-11-13T13:04:00.000Z",
-      "validatedAt": "2026-10-25T18:15:49.611Z",
+      "validatedAt": "2026-10-25T17:50:48.149Z",
       "revokedAt": "2026-10-14T13:33:06.499Z"
     },
     {
@@ -144,7 +144,7 @@
       "enabled": true,
       "installed": "2026-10-22T13:49:46.701Z",
       "expires": "2026-11-21T13:49:46.701Z",
-      "validatedAt": "2026-10-25T14:06:44.163Z"
+      "validatedAt": "2026-10-25T18:15:50.879Z"
     },
     {
       "app": "POOL_HELPER_BET9JA",
