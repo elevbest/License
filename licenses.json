@@ -296,6 +296,14 @@
       "enabled": true,
       "installed": "2026-10-28T18:14:15.497Z",
       "expires": "2026-11-27T18:14:15.497Z"
+    },
+    {
+      "app": "POOL_HELPER_BET9JA",
+      "shop_id": "MATT22100",
+      "machine_id": "CB7C0AA9083461FB5A6BA702DAAE105EDA244D693C8EC6DFF9C7FC16E1DADD7F",
+      "enabled": true,
+      "installed": "2026-10-28T21:16:57.451Z",
+      "expires": "2026-11-27T21:16:57.451Z"
     }
   ]
 }
