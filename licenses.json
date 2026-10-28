@@ -280,6 +280,14 @@
       "installed": "2026-10-28T14:31:40.074Z",
       "expires": "2026-11-27T14:31:40.074Z",
       "validatedAt": "2026-10-28T14:56:59.052Z"
+    },
+    {
+      "app": "BOOKING_QUEUE",
+      "shop_id": "UZOR",
+      "machine_id": "72942210C7471A113D45D62BE7361DFEE87B10D7402727D3A98F775CE907AAC2",
+      "enabled": true,
+      "installed": "2026-10-28T18:10:18.336Z",
+      "expires": "2026-11-27T18:10:18.336Z"
     }
   ]
 }
