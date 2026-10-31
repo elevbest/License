@@ -325,6 +325,14 @@
       "installed": "2026-10-29T15:42:56.741Z",
       "expires": "2026-11-28T15:42:56.741Z",
       "validatedAt": "2026-10-30T14:07:17.514Z"
+    },
+    {
+      "app": "POOL_HELPER_BETKING",
+      "shop_id": "NSIKAK",
+      "machine_id": "5CE048CDB5B2124A76DC5BB229112162393947A97BFD9D9C52F9367DF1821B42",
+      "enabled": true,
+      "installed": "2026-10-31T10:49:04.862Z",
+      "expires": "2026-11-30T10:49:04.862Z"
     }
   ]
 }
