@@ -351,6 +351,14 @@
       "enabled": true,
       "installed": "2026-11-02T18:32:13.150Z",
       "expires": "2026-12-02T18:32:13.150Z"
+    },
+    {
+      "app": "BOOKING_QUEUE",
+      "shop_id": "5267702",
+      "machine_id": "D793B3FFF7862E3FC796CCA8CABA2085314CB358593E63DAB582B52E6C93FFCC",
+      "enabled": true,
+      "installed": "2026-11-02T19:02:12.777Z",
+      "expires": "2026-12-02T19:02:12.777Z"
     }
   ]
 }
