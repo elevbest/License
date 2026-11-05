@@ -412,6 +412,14 @@
       "enabled": true,
       "installed": "2026-11-05T18:31:07.813Z",
       "expires": "2026-12-05T18:31:07.813Z"
+    },
+    {
+      "app": "BOOKING_QUEUE",
+      "shop_id": "POOLCODE",
+      "machine_id": "39E14C1C1A46DF52327A1D026CC8384392AC3B449EA9A848DF15BAB3F926FBDD",
+      "enabled": true,
+      "installed": "2026-11-05T18:52:32.757Z",
+      "expires": "2026-12-05T18:52:32.757Z"
     }
   ]
 }
