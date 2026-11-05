@@ -428,6 +428,14 @@
       "enabled": true,
       "installed": "2026-11-05T18:54:54.771Z",
       "expires": "2026-12-05T18:54:54.771Z"
+    },
+    {
+      "app": "POOL_HELPER_BETKING",
+      "shop_id": "RI-OBI-0666",
+      "machine_id": "465C04AC80096CCAAFC17F049BE15AF12D47A2826EBFF6A8DCC46EA49FE41219",
+      "enabled": true,
+      "installed": "2026-11-05T20:09:15.046Z",
+      "expires": "2026-12-05T20:09:15.046Z"
     }
   ]
 }
