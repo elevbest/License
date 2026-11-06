@@ -444,7 +444,8 @@
       "machine_id": "A057AF3CD370C0483D69DB23BD5E46FC6E3AF5F7D5DD7EA2B4496FC435A5AE7B",
       "enabled": true,
       "installed": "2026-11-05T20:53:53.720Z",
-      "expires": "2026-12-05T20:53:53.720Z"
+      "expires": "2026-12-05T20:53:53.720Z",
+      "validatedAt": "2026-11-06T07:14:46.852Z"
     },
     {
       "app": "POOL_HELPER_BETKING",
