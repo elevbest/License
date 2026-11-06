@@ -466,8 +466,7 @@
       "machine_id": "B46B528FD8ADFCBA480BB30D408564FA5AAA16CB85A4A1D2257294710145A309",
       "enabled": true,
       "installed": "2026-11-06T07:44:33.299Z",
-      "expires": "2026-12-06T07:44:33.299Z",
-      "validatedAt": "2026-11-06T14:21:31.965Z"
+      "expires": "2026-12-06T07:44:33.299Z"
     },
     {
       "app": "POOL_HELPER_BETKING",
@@ -475,7 +474,8 @@
       "machine_id": "B46B528FD8ADFCBA480BB30D408564FA5AAA16CB85A4A1D2257294710145A309",
       "enabled": true,
       "installed": "2026-11-06T07:49:12.441Z",
-      "expires": "2026-12-06T07:49:12.441Z"
+      "expires": "2026-12-06T07:49:12.441Z",
+      "validatedAt": "2026-11-06T14:21:32.380Z"
     },
     {
       "app": "BOOKING_QUEUE",
