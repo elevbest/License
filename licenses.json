@@ -99,7 +99,7 @@
       "installed": "2026-10-14T13:36:32.097Z",
       "expires": "2026-11-14T13:36:00.000Z",
       "revokedAt": "2026-10-14T13:39:11.546Z",
-      "validatedAt": "2026-11-06T23:00:01.542Z"
+      "validatedAt": "2026-11-06T20:43:01.269Z"
     },
     {
       "app": "BOOKING_QUEUE",
@@ -108,7 +108,7 @@
       "enabled": true,
       "installed": "2026-10-14T14:09:24.882Z",
       "expires": "2026-11-13T14:09:24.882Z",
-      "validatedAt": "2026-11-06T17:53:56.128Z"
+      "validatedAt": "2026-11-06T23:00:00.639Z"
     },
     {
       "app": "BOOKING_QUEUE",
@@ -189,7 +189,7 @@
       "enabled": true,
       "installed": "2026-10-23T08:57:42.429Z",
       "expires": "2026-11-22T08:57:42.429Z",
-      "validatedAt": "2026-11-06T08:47:05.200Z"
+      "validatedAt": "2026-11-06T23:00:03.843Z"
     },
     {
       "app": "POOL_HELPER_BET9JA",
