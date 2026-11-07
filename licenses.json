@@ -503,7 +503,8 @@
       "machine_id": "BACD625AF98A3F9D5F0B41A742F10B727A89CA6F932BA5DB4269E199C7365AB1",
       "enabled": true,
       "installed": "2026-11-07T11:01:14.149Z",
-      "expires": "2026-12-07T11:01:14.149Z"
+      "expires": "2026-12-07T11:01:14.149Z",
+      "validatedAt": "2026-11-07T12:03:31.331Z"
     }
   ]
 }
