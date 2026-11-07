@@ -529,6 +529,14 @@
       "enabled": true,
       "installed": "2026-11-07T13:46:01.348Z",
       "expires": "2026-12-07T13:46:01.348Z"
+    },
+    {
+      "app": "POOL_HELPER_BET9JA",
+      "shop_id": "BET9JA",
+      "machine_id": "4642EF08AF547EE4BA6E583B5151842478F4C53C64BEE5FF11C2CDE5662C0471",
+      "enabled": true,
+      "installed": "2026-11-07T14:16:29.007Z",
+      "expires": "2026-12-07T14:16:29.007Z"
     }
   ]
 }
