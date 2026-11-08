@@ -555,6 +555,23 @@
       "enabled": true,
       "installed": "2026-11-08T14:50:34.006Z",
       "expires": "2026-12-08T14:50:34.006Z"
+    },
+    {
+      "app": "POOL_HELPER_BETKING",
+      "shop_id": "SOLOBERRY",
+      "machine_id": "8B0CC1C1A1C5CD1B5E3C2F8FE42C513CC3763041D73598E6CB732F4B2E47CA1C",
+      "enabled": true,
+      "installed": "2026-11-08T14:51:48.562Z",
+      "expires": "2026-12-08T14:50:34.006Z",
+      "derived_from": "BOOKING_QUEUE",
+      "attached": [
+        {
+          "machine_id": "B293A3C0F77E38A073147C203A075E9114F1724645B5CD8EB973847ACEA39BE4",
+          "pc_name": "p2-PC",
+          "at": "2026-11-08T14:51:48.562Z",
+          "merged_from": []
+        }
+      ]
     }
   ]
 }
