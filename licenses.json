@@ -2,24 +2,6 @@
   "licenses": [
     {
       "app": "POOL_HELPER_BETKING",
-      "shop_id": "SOLOBERRY",
-      "machine_id": "C53DA232C38A2A302412135BF881DD516C4B76F2FDAF80D1525E51B925ED482E",
-      "enabled": true,
-      "installed": "2026-10-11T17:42:46.924Z",
-      "expires": "2026-11-10T17:42:46.924Z",
-      "validatedAt": "2026-10-20T08:14:26.169Z"
-    },
-    {
-      "app": "BOOKING_QUEUE",
-      "shop_id": "SOLOBERRY",
-      "machine_id": "C53DA232C38A2A302412135BF881DD516C4B76F2FDAF80D1525E51B925ED482E",
-      "enabled": true,
-      "installed": "2026-10-11T17:43:16.242Z",
-      "expires": "2026-11-10T17:43:16.242Z",
-      "validatedAt": "2026-10-20T08:14:29.540Z"
-    },
-    {
-      "app": "POOL_HELPER_BETKING",
       "shop_id": "SOLOBERRY2",
       "machine_id": "C2C6CB56F82B5167600A5F27C7A00A6C06EAF4D71054F2B609007A4791517997",
       "enabled": true,
