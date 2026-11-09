@@ -18,7 +18,7 @@
       "enabled": true,
       "installed": "2026-10-13T11:20:02.504Z",
       "expires": "2026-11-12T11:20:02.504Z",
-      "validatedAt": "2026-11-09T07:17:55.340Z",
+      "validatedAt": "2026-11-08T09:06:56.532Z",
       "attached": [
         {
           "machine_id": "01E643AAEC2E8A9882E41C02CF02CEFCF18B3DAA5C5DD978B820C8862F3471A6",
@@ -50,7 +50,7 @@
       "enabled": true,
       "installed": "2026-10-13T14:24:20.668Z",
       "expires": "2026-11-12T14:24:20.668Z",
-      "validatedAt": "2026-11-08T07:32:57.852Z"
+      "validatedAt": "2026-11-09T07:17:56.873Z"
     },
     {
       "app": "BOOKING_QUEUE",
