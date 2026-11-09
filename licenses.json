@@ -590,7 +590,8 @@
       "machine_id": "C470B1B3DF859A1880A9D1DCA9A1B5D3B668478CFC5C12BE1BAAC2638DD29E7C",
       "enabled": true,
       "installed": "2026-11-08T18:32:46.800Z",
-      "expires": "2026-12-08T18:32:46.800Z"
+      "expires": "2026-12-08T18:32:46.800Z",
+      "validatedAt": "2026-11-09T07:14:39.124Z"
     }
   ]
 }
