@@ -15,7 +15,7 @@
       "app": "POOL_HELPER_BET9JA",
       "shop_id": "KINGSLEY2",
       "machine_id": "C4DEB59916BE478301123CCF03D2EED88B6ED5745030602AC656C44B06BF1159",
-      "enabled": true,
+      "enabled": false,
       "installed": "2026-10-13T11:20:02.504Z",
       "expires": "2026-11-12T11:20:02.504Z",
       "validatedAt": "2026-11-09T07:18:28.533Z",
@@ -32,7 +32,9 @@
             }
           ]
         }
-      ]
+      ],
+      "merged_into": "KINGSLEY",
+      "merged_at": "2026-11-09T10:34:36.724Z"
     },
     {
       "app": "POOL_HELPER_BET9JA",
@@ -602,7 +604,21 @@
       "installed": "2026-11-09T10:20:21.003Z",
       "expires": "2026-11-12T14:24:20.668Z",
       "derived_from": "BOOKING_QUEUE",
-      "validatedAt": "2026-11-09T10:20:23.615Z"
+      "validatedAt": "2026-11-09T10:20:23.615Z",
+      "attached": [
+        {
+          "machine_id": "C4DEB59916BE478301123CCF03D2EED88B6ED5745030602AC656C44B06BF1159",
+          "pc_name": "HP-003",
+          "at": "2026-11-09T10:34:36.724Z",
+          "merged_from": [
+            {
+              "shop_id": "KINGSLEY2",
+              "expires": "2026-11-12T11:20:02.504Z",
+              "installed": "2026-10-13T11:20:02.504Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
