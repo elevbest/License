@@ -651,6 +651,14 @@
           ]
         }
       ]
+    },
+    {
+      "app": "POOL_HELPER_BETKING",
+      "shop_id": "POOL NUMBER",
+      "machine_id": "5D4A2311529FE3084FE9290BA04FD0002B9EF567B5C6468833D50D772BBEA345",
+      "enabled": true,
+      "installed": "2026-11-09T12:16:23.287Z",
+      "expires": "2026-12-09T12:16:23.287Z"
     }
   ]
 }
