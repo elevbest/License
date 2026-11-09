@@ -406,7 +406,21 @@
       "enabled": true,
       "installed": "2026-11-05T18:31:07.813Z",
       "expires": "2026-12-05T18:31:07.813Z",
-      "validatedAt": "2026-11-09T06:59:35.374Z"
+      "validatedAt": "2026-11-09T06:59:35.374Z",
+      "attached": [
+        {
+          "machine_id": "EF615675BB2C2A172C3F976BDEB8705368B63F4F9160B799462027EC8E863540",
+          "pc_name": "BET-BONANZA-PC",
+          "at": "2026-11-09T11:05:21.429Z",
+          "merged_from": [
+            {
+              "shop_id": "RI-KHA-0184",
+              "expires": "2026-12-07T15:58:28.930Z",
+              "installed": "2026-11-07T15:58:28.930Z"
+            }
+          ]
+        }
+      ]
     },
     {
       "app": "BOOKING_QUEUE",
@@ -537,10 +551,12 @@
       "app": "POOL_HELPER_BETKING",
       "shop_id": "RI-KHA-0184",
       "machine_id": "EF615675BB2C2A172C3F976BDEB8705368B63F4F9160B799462027EC8E863540",
-      "enabled": true,
+      "enabled": false,
       "installed": "2026-11-07T15:58:28.930Z",
       "expires": "2026-12-07T15:58:28.930Z",
-      "validatedAt": "2026-11-09T06:56:51.734Z"
+      "validatedAt": "2026-11-09T06:56:51.734Z",
+      "merged_into": "3068221",
+      "merged_at": "2026-11-09T11:05:21.429Z"
     },
     {
       "app": "BOOKING_QUEUE",
