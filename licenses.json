@@ -178,10 +178,12 @@
       "app": "POOL_HELPER_BET9JA",
       "shop_id": "FRED",
       "machine_id": "776ED5C98F488FDC30F4D9691ECCC63E084155B5DB1599E075FB7D9B7D8E4CB0",
-      "enabled": true,
+      "enabled": false,
       "installed": "2026-10-23T08:57:42.429Z",
       "expires": "2026-11-22T08:57:42.429Z",
-      "validatedAt": "2026-11-09T23:00:28.791Z"
+      "validatedAt": "2026-11-09T23:00:28.791Z",
+      "merged_into": "FRED1",
+      "merged_at": "2026-11-10T09:59:49.666Z"
     },
     {
       "app": "POOL_HELPER_BET9JA",
@@ -246,7 +248,21 @@
       "enabled": true,
       "installed": "2026-10-24T10:05:03.386Z",
       "expires": "2026-11-23T10:05:03.386Z",
-      "validatedAt": "2026-11-09T21:47:03.911Z"
+      "validatedAt": "2026-11-09T21:47:03.911Z",
+      "attached": [
+        {
+          "machine_id": "776ED5C98F488FDC30F4D9691ECCC63E084155B5DB1599E075FB7D9B7D8E4CB0",
+          "pc_name": "DELL",
+          "at": "2026-11-10T09:59:49.666Z",
+          "merged_from": [
+            {
+              "shop_id": "FRED",
+              "expires": "2026-11-22T08:57:42.429Z",
+              "installed": "2026-10-23T08:57:42.429Z"
+            }
+          ]
+        }
+      ]
     },
     {
       "app": "POOL_HELPER_BET9JA",
