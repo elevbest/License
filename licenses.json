@@ -216,10 +216,12 @@
       "app": "POOL_HELPER_BETKING",
       "shop_id": "8135803",
       "machine_id": "8C70C539DD3D02B333854AB1D989234BCAAB949001754C20120CE3E40968F849",
-      "enabled": true,
+      "enabled": false,
       "installed": "2026-10-23T17:51:12.438Z",
       "expires": "2026-11-22T17:51:12.438Z",
-      "validatedAt": "2026-11-11T13:26:45.670Z"
+      "validatedAt": "2026-11-11T13:26:45.670Z",
+      "merged_into": "GIFT2",
+      "merged_at": "2026-11-11T13:29:43.103Z"
     },
     {
       "app": "POOL_HELPER_BETKING",
@@ -350,6 +352,18 @@
               "shop_id": "GIFT",
               "expires": "2026-11-23T09:17:45.788Z",
               "installed": "2026-10-24T09:17:45.788Z"
+            }
+          ]
+        },
+        {
+          "machine_id": "8C70C539DD3D02B333854AB1D989234BCAAB949001754C20120CE3E40968F849",
+          "pc_name": "BOSSD3",
+          "at": "2026-11-11T13:29:43.103Z",
+          "merged_from": [
+            {
+              "shop_id": "8135803",
+              "expires": "2026-11-22T17:51:12.438Z",
+              "installed": "2026-10-23T17:51:12.438Z"
             }
           ]
         }
