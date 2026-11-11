@@ -247,7 +247,7 @@
       "app": "POOL_HELPER_BET9JA",
       "shop_id": "FRED1",
       "machine_id": "E62A006820FD1EBF98FEF76215BEAAE094940088F19398C5E9865DE4CE652846",
-      "enabled": true,
+      "enabled": false,
       "installed": "2026-10-24T10:05:03.386Z",
       "expires": "2026-11-23T10:05:03.386Z",
       "validatedAt": "2026-11-10T23:00:08.680Z",
@@ -264,7 +264,9 @@
             }
           ]
         }
-      ]
+      ],
+      "merged_into": "FRED",
+      "merged_at": "2026-11-11T16:01:03.897Z"
     },
     {
       "app": "POOL_HELPER_BET9JA",
@@ -802,7 +804,21 @@
       "installed": "2026-11-11T14:34:13.637Z",
       "expires": "2026-12-07T13:46:01.348Z",
       "derived_from": "BOOKING_QUEUE",
-      "validatedAt": "2026-11-11T14:34:16.173Z"
+      "validatedAt": "2026-11-11T14:34:16.173Z",
+      "attached": [
+        {
+          "machine_id": "E62A006820FD1EBF98FEF76215BEAAE094940088F19398C5E9865DE4CE652846",
+          "pc_name": "pc-PC",
+          "at": "2026-11-11T16:01:03.897Z",
+          "merged_from": [
+            {
+              "shop_id": "FRED1",
+              "expires": "2026-11-23T10:05:03.386Z",
+              "installed": "2026-10-24T10:05:03.386Z"
+            }
+          ]
+        }
+      ]
     },
     {
       "app": "POOL_HELPER_BETKING",
