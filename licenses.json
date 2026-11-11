@@ -751,9 +751,9 @@
   "settings": {
     "force_update": {
       "pool_helper": {
-        "mode": "date",
-        "at": "2026-11-15T04:34:00.000Z",
-        "message": "A new version of Pool Helper is available, please update your app to avoid interruptions."
+        "mode": "off",
+        "at": "",
+        "message": ""
       }
     }
   }
