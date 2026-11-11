@@ -745,7 +745,15 @@
       "enabled": true,
       "installed": "2026-11-10T17:19:44.593Z",
       "expires": "2026-12-10T17:19:44.593Z",
-      "validatedAt": "2026-11-11T08:06:19.691Z"
+      "validatedAt": "2026-11-11T08:06:19.691Z",
+      "attached": [
+        {
+          "machine_id": "C2FD7A3551CC785205EA2F675186338145C58F038C39A3382946E8576D570440",
+          "pc_name": "DESKTOP-JIU7H7U",
+          "at": "2026-11-11T12:14:02.400Z",
+          "merged_from": []
+        }
+      ]
     },
     {
       "app": "POOL_HELPER_BET9JA",
