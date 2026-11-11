@@ -747,5 +747,14 @@
       "expires": "2026-12-10T17:19:44.593Z",
       "validatedAt": "2026-11-11T08:06:19.691Z"
     }
-  ]
+  ],
+  "settings": {
+    "force_update": {
+      "pool_helper": {
+        "mode": "date",
+        "at": "2026-11-15T04:34:00.000Z",
+        "message": "A new version of Pool Helper is available, please update your app to avoid interruptions."
+      }
+    }
+  }
 }
