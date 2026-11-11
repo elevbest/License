@@ -810,16 +810,32 @@
       "machine_id": "AA9C52456DE700AE36BEAEF5E04F586A75BAB2A7A297893269A1D2B20EE2111F",
       "enabled": true,
       "installed": "2026-11-11T15:24:59.367Z",
-      "expires": "2026-12-11T15:24:59.367Z"
+      "expires": "2026-12-11T15:24:59.367Z",
+      "attached": [
+        {
+          "machine_id": "3DD6C3478F8FD148B29665B2134F9B73BBA9D7147348870DD3614A7A52C8766D",
+          "pc_name": "user",
+          "at": "2026-11-11T15:46:10.989Z",
+          "merged_from": [
+            {
+              "shop_id": "CODE HUB",
+              "expires": "2026-12-11T15:43:38.304Z",
+              "installed": "2026-11-11T15:43:38.304Z"
+            }
+          ]
+        }
+      ]
     },
     {
       "app": "POOL_HELPER_BETKING",
       "shop_id": "CODE HUB",
       "machine_id": "3DD6C3478F8FD148B29665B2134F9B73BBA9D7147348870DD3614A7A52C8766D",
-      "enabled": true,
+      "enabled": false,
       "installed": "2026-11-11T15:43:38.304Z",
       "expires": "2026-12-11T15:43:38.304Z",
-      "validatedAt": "2026-11-11T15:44:07.798Z"
+      "validatedAt": "2026-11-11T15:44:07.798Z",
+      "merged_into": "WINNERO",
+      "merged_at": "2026-11-11T15:46:10.989Z"
     }
   ],
   "settings": {
