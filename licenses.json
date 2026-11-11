@@ -289,7 +289,21 @@
       "enabled": true,
       "installed": "2026-10-28T14:31:40.074Z",
       "expires": "2026-11-27T14:31:40.074Z",
-      "validatedAt": "2026-11-11T07:16:50.449Z"
+      "validatedAt": "2026-11-11T07:16:50.449Z",
+      "attached": [
+        {
+          "machine_id": "FF21D1911427213A8000D1ED098A546BA5211E94AA53BDC809F0B4DB43702F17",
+          "pc_name": "HP-PC",
+          "at": "2026-11-11T13:20:34.495Z",
+          "merged_from": [
+            {
+              "shop_id": "CASHIER10406-01",
+              "expires": "2026-12-11T08:47:43.732Z",
+              "installed": "2026-11-11T08:47:43.732Z"
+            }
+          ]
+        }
+      ]
     },
     {
       "app": "BOOKING_QUEUE",
@@ -759,10 +773,12 @@
       "app": "POOL_HELPER_BET9JA",
       "shop_id": "CASHIER10406-01",
       "machine_id": "FF21D1911427213A8000D1ED098A546BA5211E94AA53BDC809F0B4DB43702F17",
-      "enabled": true,
+      "enabled": false,
       "installed": "2026-11-11T08:47:43.732Z",
       "expires": "2026-12-11T08:47:43.732Z",
-      "validatedAt": "2026-11-11T08:48:09.189Z"
+      "validatedAt": "2026-11-11T08:48:09.189Z",
+      "merged_into": "CASHIER16971-02",
+      "merged_at": "2026-11-11T13:20:34.495Z"
     }
   ],
   "settings": {
