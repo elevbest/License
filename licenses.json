@@ -751,7 +751,7 @@
   "settings": {
     "force_update": {
       "pool_helper": {
-        "mode": "on",
+        "mode": "off",
         "at": "",
         "message": ""
       }
