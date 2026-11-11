@@ -803,6 +803,14 @@
       "expires": "2026-12-07T13:46:01.348Z",
       "derived_from": "BOOKING_QUEUE",
       "validatedAt": "2026-11-11T14:34:16.173Z"
+    },
+    {
+      "app": "POOL_HELPER_BETKING",
+      "shop_id": "WINNERO",
+      "machine_id": "AA9C52456DE700AE36BEAEF5E04F586A75BAB2A7A297893269A1D2B20EE2111F",
+      "enabled": true,
+      "installed": "2026-11-11T15:24:59.367Z",
+      "expires": "2026-12-11T15:24:59.367Z"
     }
   ],
   "settings": {
