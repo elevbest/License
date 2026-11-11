@@ -811,6 +811,14 @@
       "enabled": true,
       "installed": "2026-11-11T15:24:59.367Z",
       "expires": "2026-12-11T15:24:59.367Z"
+    },
+    {
+      "app": "POOL_HELPER_BETKING",
+      "shop_id": "CODE HUB",
+      "machine_id": "3DD6C3478F8FD148B29665B2134F9B73BBA9D7147348870DD3614A7A52C8766D",
+      "enabled": true,
+      "installed": "2026-11-11T15:43:38.304Z",
+      "expires": "2026-12-11T15:43:38.304Z"
     }
   ],
   "settings": {
