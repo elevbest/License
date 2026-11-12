@@ -901,7 +901,8 @@
       "machine_id": "BDDED50484A365949800B56FC726346E5DFBF92A3DC7346BD2DE216B52E2EBAC",
       "enabled": true,
       "installed": "2026-11-12T12:00:02.503Z",
-      "expires": "2026-12-12T12:00:02.503Z"
+      "expires": "2026-12-12T12:00:02.503Z",
+      "validatedAt": "2026-11-12T12:01:32.646Z"
     }
   ],
   "settings": {
