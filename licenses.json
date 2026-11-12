@@ -892,7 +892,8 @@
       "machine_id": "026A36CC4E8EE39F004CD965E9A77AD96B111866A145ED5BA5661ECA29B47FED",
       "enabled": true,
       "installed": "2026-11-12T10:46:32.171Z",
-      "expires": "2026-12-12T10:46:32.171Z"
+      "expires": "2026-12-12T10:46:32.171Z",
+      "validatedAt": "2026-11-12T10:46:56.186Z"
     }
   ],
   "settings": {
