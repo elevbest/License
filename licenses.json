@@ -876,6 +876,14 @@
       "validatedAt": "2026-11-12T07:45:16.997Z",
       "merged_into": "WINNERO",
       "merged_at": "2026-11-12T07:47:19.631Z"
+    },
+    {
+      "app": "POOL_HELPER_BETKING",
+      "shop_id": "7043003",
+      "machine_id": "F3A5BF61FADC0F399AD8E9D02F3FEE0650E7B3B5E3E6173A365CC65B69085C46",
+      "enabled": true,
+      "installed": "2026-11-12T09:31:43.867Z",
+      "expires": "2026-12-12T09:31:43.867Z"
     }
   ],
   "settings": {
