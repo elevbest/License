@@ -928,7 +928,8 @@
       "enabled": true,
       "installed": "2026-11-13T12:41:38.646Z",
       "expires": "2026-12-13T12:37:31.375Z",
-      "derived_from": "BOOKING_QUEUE"
+      "derived_from": "BOOKING_QUEUE",
+      "validatedAt": "2026-11-13T12:42:29.428Z"
     }
   ],
   "settings": {
