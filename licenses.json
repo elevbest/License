@@ -920,6 +920,15 @@
       "installed": "2026-11-13T12:37:31.375Z",
       "expires": "2026-12-13T12:37:31.375Z",
       "validatedAt": "2026-11-13T12:38:00.248Z"
+    },
+    {
+      "app": "POOL_HELPER_BET9JA",
+      "shop_id": "KELLYOCTOPUS",
+      "machine_id": "921948C80A4B5608157E91424983DC298915AF5CB60632BC83826747B82594C7",
+      "enabled": true,
+      "installed": "2026-11-13T12:41:38.646Z",
+      "expires": "2026-12-13T12:37:31.375Z",
+      "derived_from": "BOOKING_QUEUE"
     }
   ],
   "settings": {
