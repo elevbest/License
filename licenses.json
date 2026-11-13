@@ -566,7 +566,7 @@
       "enabled": true,
       "installed": "2026-11-06T07:44:33.299Z",
       "expires": "2026-12-06T07:44:33.299Z",
-      "validatedAt": "2026-11-13T07:12:42.606Z"
+      "validatedAt": "2026-11-12T15:45:50.575Z"
     },
     {
       "app": "POOL_HELPER_BETKING",
@@ -575,7 +575,7 @@
       "enabled": true,
       "installed": "2026-11-06T07:49:12.441Z",
       "expires": "2026-12-06T07:49:12.441Z",
-      "validatedAt": "2026-11-12T08:42:59.671Z"
+      "validatedAt": "2026-11-13T07:12:42.350Z"
     },
     {
       "app": "BOOKING_QUEUE",
