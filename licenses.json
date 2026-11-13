@@ -930,6 +930,14 @@
       "expires": "2026-12-13T12:37:31.375Z",
       "derived_from": "BOOKING_QUEUE",
       "validatedAt": "2026-11-13T12:42:29.428Z"
+    },
+    {
+      "app": "POOL_HELPER_BET9JA",
+      "shop_id": "EFE706",
+      "machine_id": "EDA6B50A4E01D74CEE1436C4A23C2E01B9DD444F328E8D2E62AD5C7598210FA6",
+      "enabled": true,
+      "installed": "2026-11-13T16:10:14.147Z",
+      "expires": "2026-12-13T16:10:14.147Z"
     }
   ],
   "settings": {
