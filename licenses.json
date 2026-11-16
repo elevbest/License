@@ -208,7 +208,7 @@
       "enabled": true,
       "installed": "2026-10-23T09:22:30.601Z",
       "expires": "2026-11-22T09:22:30.601Z",
-      "validatedAt": "2026-11-15T11:35:33.190Z"
+      "validatedAt": "2026-11-16T07:54:29.900Z"
     },
     {
       "app": "BOOKING_QUEUE",
@@ -217,7 +217,7 @@
       "enabled": true,
       "installed": "2026-10-23T09:23:17.115Z",
       "expires": "2027-01-04T22:59:59.000Z",
-      "validatedAt": "2026-11-16T07:54:28.920Z"
+      "validatedAt": "2026-11-15T13:17:29.065Z"
     },
     {
       "app": "POOL_HELPER_BET9JA",
