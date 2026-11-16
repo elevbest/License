@@ -986,7 +986,8 @@
       "machine_id": "B12BE8D0884551D4F5FF47CD4BF13A949D11F0F90C19BB0C704A8B3E0B5D705A",
       "enabled": true,
       "installed": "2026-11-16T13:54:05.001Z",
-      "expires": "2026-12-16T13:54:05.001Z"
+      "expires": "2026-12-16T13:54:05.001Z",
+      "validatedAt": "2026-11-16T13:54:21.379Z"
     }
   ],
   "settings": {
