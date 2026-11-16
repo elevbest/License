@@ -42,7 +42,7 @@
       "machine_id": "764B57D55B45DBA640C5C1EA6C4FBD7C043DE0B0436B52B222A8B762708D2B12",
       "enabled": true,
       "installed": "2026-10-13T11:32:41.466Z",
-      "expires": "2026-11-27T11:32:00.000Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-16T07:17:04.551Z"
     },
     {
@@ -60,7 +60,7 @@
       "machine_id": "4437326D0E6BADA405143B4F34C71FAC39F3127149B6E323C7DE5777F1C87312",
       "enabled": true,
       "installed": "2026-10-14T09:51:00.663Z",
-      "expires": "2026-12-13T09:51:00.000Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-11T17:00:14.016Z"
     },
     {
@@ -98,7 +98,7 @@
       "machine_id": "A50A373A413A43B8FCB5BBC36C0A8F1714BE373AAF9D98A9F58A5B5788F74DF5",
       "enabled": true,
       "installed": "2026-10-14T14:09:24.882Z",
-      "expires": "2026-12-13T15:09:00.000Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-15T11:04:06.618Z",
       "revokedAt": "2026-11-15T09:27:26.518Z"
     },
@@ -108,7 +108,7 @@
       "machine_id": "FE37EAEA4FD067C5C99DC75C187D534216D5AAFA880B9B7B954473EFC48386B6",
       "enabled": true,
       "installed": "2026-10-19T09:20:56.983Z",
-      "expires": "2026-12-18T09:20:00.000Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-15T09:41:33.741Z"
     },
     {
@@ -137,7 +137,7 @@
       "machine_id": "AA8AA76C0803AE63F436DDEC9ADE25677936C5865407B2736FDA1F7A0D268C46",
       "enabled": true,
       "installed": "2026-10-22T13:49:46.701Z",
-      "expires": "2026-12-21T13:49:00.000Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-12T18:01:19.623Z"
     },
     {
@@ -169,7 +169,7 @@
       "machine_id": "8A16BB339F08680D0231B5B506D4031021CC1015E3EC5320BA55D5EF3488766D",
       "enabled": true,
       "installed": "2026-10-22T13:55:02.946Z",
-      "expires": "2026-12-21T13:55:00.000Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-14T09:21:40.171Z"
     },
     {
@@ -178,7 +178,7 @@
       "machine_id": "EABF1219457D4CF75CEE7F78008AB8B3DFFB4C1101DF94EDAA4B6CA0DA82F76D",
       "enabled": true,
       "installed": "2026-10-22T15:15:49.773Z",
-      "expires": "2026-12-21T15:15:00.000Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-15T08:42:33.117Z"
     },
     {
@@ -187,7 +187,7 @@
       "machine_id": "84441A066C9CFDF4921F6B5ABE9E8B3D5189CB408C7CFECE7825ACEC8CE00D5D",
       "enabled": true,
       "installed": "2026-10-22T16:35:39.451Z",
-      "expires": "2026-12-21T16:35:00.000Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-15T08:43:56.205Z"
     },
     {
@@ -216,7 +216,7 @@
       "machine_id": "4481609D541423349ED3BC926CCD66173E953485B35EBB5CAE709A3FB550ADB4",
       "enabled": true,
       "installed": "2026-10-23T09:23:17.115Z",
-      "expires": "2026-12-22T09:23:00.000Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-15T13:17:29.065Z"
     },
     {
@@ -225,7 +225,7 @@
       "machine_id": "DD32987B59D2B1EE7B1A340E4F052F7D5A8A7387201CB15033EF8EEF7CCA177B",
       "enabled": true,
       "installed": "2026-10-23T12:59:37.804Z",
-      "expires": "2026-12-22T12:59:00.000Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-07T10:04:33.261Z"
     },
     {
@@ -245,7 +245,7 @@
       "machine_id": "E96F17FB0AE35BDDC343577175B59562E6677D2AAA54ED4813AC4DD660DB6FEE",
       "enabled": true,
       "installed": "2026-10-23T18:10:53.374Z",
-      "expires": "2026-12-22T18:10:00.000Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-10-26T08:40:51.502Z"
     },
     {
@@ -299,7 +299,7 @@
       "machine_id": "327F8F9B124880D1E2CFAC7951BD03B68586CA0E068F4A64F143C6D16CBE1078",
       "enabled": true,
       "installed": "2026-10-24T17:54:07.523Z",
-      "expires": "2026-11-23T17:54:07.523Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-16T06:33:07.608Z"
     },
     {
@@ -308,7 +308,7 @@
       "machine_id": "14C441D0210D3D8A57C198E443F49902A6256DF4F79963D472E47AD8888ADCCC",
       "enabled": true,
       "installed": "2026-10-28T14:31:40.074Z",
-      "expires": "2026-11-27T14:31:40.074Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-16T07:34:47.823Z",
       "attached": [
         {
@@ -331,7 +331,7 @@
       "machine_id": "72942210C7471A113D45D62BE7361DFEE87B10D7402727D3A98F775CE907AAC2",
       "enabled": true,
       "installed": "2026-10-28T18:10:18.336Z",
-      "expires": "2026-11-27T18:10:18.336Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-16T07:12:13.101Z"
     },
     {
@@ -349,7 +349,7 @@
       "machine_id": "CB7C0AA9083461FB5A6BA702DAAE105EDA244D693C8EC6DFF9C7FC16E1DADD7F",
       "enabled": true,
       "installed": "2026-10-28T21:16:57.451Z",
-      "expires": "2026-11-27T21:16:57.451Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-15T10:19:58.417Z"
     },
     {
@@ -358,7 +358,7 @@
       "machine_id": "869ED75163D44AA00EA65259B6C76C6E5B1DE2C72C0970D0CB174D09548B2EAA",
       "enabled": true,
       "installed": "2026-10-29T08:24:10.227Z",
-      "expires": "2026-11-28T08:24:10.227Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-15T09:53:55.579Z",
       "attached": [
         {
@@ -393,7 +393,7 @@
       "machine_id": "E2DF1A6ED320FA519E7A1F1CF820CFED7E929B902ADD117C395414A1D3531006",
       "enabled": true,
       "installed": "2026-10-29T15:42:56.741Z",
-      "expires": "2026-11-28T15:42:56.741Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-15T12:39:18.646Z"
     },
     {
@@ -402,7 +402,7 @@
       "machine_id": "5CE048CDB5B2124A76DC5BB229112162393947A97BFD9D9C52F9367DF1821B42",
       "enabled": true,
       "installed": "2026-10-31T10:49:04.862Z",
-      "expires": "2026-11-30T10:49:04.862Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-16T06:30:11.320Z"
     },
     {
@@ -411,7 +411,7 @@
       "machine_id": "C9AB2F4F69471001DB59FB5294EA5590B83C9BA2385983A461951CF9DB0DEF73",
       "enabled": true,
       "installed": "2026-10-31T12:38:45.456Z",
-      "expires": "2026-11-30T12:38:45.456Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-15T09:41:19.688Z"
     },
     {
@@ -443,7 +443,7 @@
       "machine_id": "D793B3FFF7862E3FC796CCA8CABA2085314CB358593E63DAB582B52E6C93FFCC",
       "enabled": true,
       "installed": "2026-11-02T19:02:12.777Z",
-      "expires": "2026-12-02T19:02:12.777Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-16T07:16:56.863Z"
     },
     {
@@ -463,7 +463,7 @@
       "machine_id": "84CC4B2FFF640301D668071E8FE8322CF121912177C386337D934048EC590C40",
       "enabled": true,
       "installed": "2026-11-03T13:41:28.570Z",
-      "expires": "2026-12-03T13:41:28.570Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-13T15:03:52.028Z"
     },
     {
@@ -472,7 +472,7 @@
       "machine_id": "A9DBBFA08261E7485A7504DF80CC3960C4F675E84A873C4A4AE7E38AEAED044D",
       "enabled": true,
       "installed": "2026-11-04T13:33:22.597Z",
-      "expires": "2026-12-04T13:33:22.597Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-15T08:23:15.416Z"
     },
     {
@@ -490,7 +490,7 @@
       "machine_id": "3269EE708372CD8FCFA1021E97BEBF1B87EEA6ADC7E97EBBC550C5E45117268C",
       "enabled": true,
       "installed": "2026-11-05T18:17:51.327Z",
-      "expires": "2026-12-05T18:17:51.327Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-15T20:27:14.961Z",
       "attached": [
         {
@@ -513,7 +513,7 @@
       "machine_id": "7019EAAAEE7FA629482D92556B398C5B01F97E2FFA14273C75F0EBED715767EF",
       "enabled": true,
       "installed": "2026-11-05T18:31:07.813Z",
-      "expires": "2026-12-05T18:31:07.813Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-15T23:00:25.566Z",
       "attached": [
         {
@@ -542,7 +542,7 @@
       "machine_id": "39E14C1C1A46DF52327A1D026CC8384392AC3B449EA9A848DF15BAB3F926FBDD",
       "enabled": true,
       "installed": "2026-11-05T18:52:32.757Z",
-      "expires": "2026-12-05T18:52:32.757Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-10T10:18:09.260Z"
     },
     {
@@ -560,7 +560,7 @@
       "machine_id": "465C04AC80096CCAAFC17F049BE15AF12D47A2826EBFF6A8DCC46EA49FE41219",
       "enabled": true,
       "installed": "2026-11-05T20:09:15.046Z",
-      "expires": "2026-12-05T20:09:15.046Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-14T09:00:45.074Z"
     },
     {
@@ -578,7 +578,7 @@
       "machine_id": "50F0F1E3FA9E50C6E402ECDD5166E7E5F6F34D9D2FA54F8C6842456DE056C32F",
       "enabled": true,
       "installed": "2026-11-05T21:41:10.648Z",
-      "expires": "2026-12-05T21:41:10.648Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-14T08:39:37.116Z"
     },
     {
@@ -587,7 +587,7 @@
       "machine_id": "B46B528FD8ADFCBA480BB30D408564FA5AAA16CB85A4A1D2257294710145A309",
       "enabled": true,
       "installed": "2026-11-06T07:44:33.299Z",
-      "expires": "2026-12-06T07:44:33.299Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-16T07:32:41.825Z"
     },
     {
@@ -605,7 +605,7 @@
       "machine_id": "A057AF3CD370C0483D69DB23BD5E46FC6E3AF5F7D5DD7EA2B4496FC435A5AE7B",
       "enabled": true,
       "installed": "2026-11-06T12:33:22.594Z",
-      "expires": "2026-12-06T12:33:22.594Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-15T20:18:22.342Z"
     },
     {
@@ -614,7 +614,7 @@
       "machine_id": "32DC4DCA0CDBADC146F856B8A21055AFA98DDBD4F3396B3FF17D5C05BA48B995",
       "enabled": true,
       "installed": "2026-11-07T10:47:01.763Z",
-      "expires": "2026-12-07T10:47:01.763Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-16T05:53:30.407Z"
     },
     {
@@ -623,7 +623,7 @@
       "machine_id": "BACD625AF98A3F9D5F0B41A742F10B727A89CA6F932BA5DB4269E199C7365AB1",
       "enabled": true,
       "installed": "2026-11-07T11:01:14.149Z",
-      "expires": "2026-12-07T11:01:14.149Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-16T07:17:58.809Z"
     },
     {
@@ -632,7 +632,7 @@
       "machine_id": "467537E85C6252A639B976A70A95CEA18EA04A488B5FA1CE83BCB983C734B764",
       "enabled": true,
       "installed": "2026-11-07T12:34:21.093Z",
-      "expires": "2026-12-07T12:34:21.093Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-15T18:57:22.470Z"
     },
     {
@@ -641,7 +641,7 @@
       "machine_id": "9E2E6F736F64CD3E99C1F8FBF6E3EFC0F34C4D9AEC940ED699EB8A6561F7DF9D",
       "enabled": true,
       "installed": "2026-11-07T13:39:34.603Z",
-      "expires": "2026-12-07T13:39:34.603Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-14T22:41:46.280Z"
     },
     {
@@ -650,7 +650,7 @@
       "machine_id": "776ED5C98F488FDC30F4D9691ECCC63E084155B5DB1599E075FB7D9B7D8E4CB0",
       "enabled": true,
       "installed": "2026-11-07T13:46:01.348Z",
-      "expires": "2026-12-07T13:46:01.348Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-15T08:45:25.779Z"
     },
     {
@@ -659,7 +659,7 @@
       "machine_id": "4642EF08AF547EE4BA6E583B5151842478F4C53C64BEE5FF11C2CDE5662C0471",
       "enabled": true,
       "installed": "2026-11-07T14:16:29.007Z",
-      "expires": "2026-12-07T14:16:29.007Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-16T07:22:55.869Z",
       "attached": [
         {
@@ -687,7 +687,7 @@
       "machine_id": "8B0CC1C1A1C5CD1B5E3C2F8FE42C513CC3763041D73598E6CB732F4B2E47CA1C",
       "enabled": true,
       "installed": "2026-11-08T14:50:34.006Z",
-      "expires": "2026-12-08T14:50:34.006Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-15T21:22:44.517Z"
     },
     {
@@ -714,7 +714,7 @@
       "machine_id": "63D8D0EFED06FE354F1EED0C280812CF17A1C008D3F88638E62D5427ABA0250D",
       "enabled": true,
       "installed": "2026-11-08T18:12:37.320Z",
-      "expires": "2026-12-08T18:12:37.320Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-15T18:12:16.484Z"
     },
     {
@@ -734,7 +734,7 @@
       "machine_id": "C470B1B3DF859A1880A9D1DCA9A1B5D3B668478CFC5C12BE1BAAC2638DD29E7C",
       "enabled": true,
       "installed": "2026-11-08T18:32:46.800Z",
-      "expires": "2026-12-08T18:32:46.800Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-15T06:51:00.435Z"
     },
     {
@@ -767,7 +767,7 @@
       "machine_id": "5D4A2311529FE3084FE9290BA04FD0002B9EF567B5C6468833D50D772BBEA345",
       "enabled": true,
       "installed": "2026-11-09T12:16:23.287Z",
-      "expires": "2026-12-09T12:16:23.287Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-15T09:39:39.190Z"
     },
     {
@@ -786,7 +786,7 @@
       "machine_id": "0A7BBBEEAC6243A7A7CDF32EFB018E6E14600D1B1F98D3429B8CE5A3CF8540A8",
       "enabled": true,
       "installed": "2026-11-10T14:03:17.435Z",
-      "expires": "2026-12-10T14:03:17.435Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-15T23:00:12.932Z"
     },
     {
@@ -795,7 +795,7 @@
       "machine_id": "594D677B60B02E61ABA4678BBF5BEC730919083E2A64CEC600FD97020E560F95",
       "enabled": true,
       "installed": "2026-11-10T17:08:52.774Z",
-      "expires": "2026-12-10T17:08:52.774Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-15T10:17:21.925Z"
     },
     {
@@ -804,7 +804,7 @@
       "machine_id": "C61BA0560F0AEF02B76B25B96C82707CE0D04FBF726B0B9AD809A3E51CE8D5C0",
       "enabled": true,
       "installed": "2026-11-10T17:19:44.593Z",
-      "expires": "2026-12-10T17:19:44.593Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-15T10:08:05.348Z",
       "attached": [
         {
@@ -856,7 +856,7 @@
       "machine_id": "AA9C52456DE700AE36BEAEF5E04F586A75BAB2A7A297893269A1D2B20EE2111F",
       "enabled": true,
       "installed": "2026-11-11T15:24:59.367Z",
-      "expires": "2026-12-11T15:24:59.367Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "attached": [
         {
           "machine_id": "3DD6C3478F8FD148B29665B2134F9B73BBA9D7147348870DD3614A7A52C8766D",
@@ -913,7 +913,7 @@
       "machine_id": "F3A5BF61FADC0F399AD8E9D02F3FEE0650E7B3B5E3E6173A365CC65B69085C46",
       "enabled": true,
       "installed": "2026-11-12T09:31:43.867Z",
-      "expires": "2026-12-12T09:31:43.867Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-12T09:34:43.935Z"
     },
     {
@@ -922,7 +922,7 @@
       "machine_id": "026A36CC4E8EE39F004CD965E9A77AD96B111866A145ED5BA5661ECA29B47FED",
       "enabled": true,
       "installed": "2026-11-12T10:46:32.171Z",
-      "expires": "2026-12-12T10:46:32.171Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-16T07:30:31.681Z"
     },
     {
@@ -931,7 +931,7 @@
       "machine_id": "BDDED50484A365949800B56FC726346E5DFBF92A3DC7346BD2DE216B52E2EBAC",
       "enabled": true,
       "installed": "2026-11-12T12:00:02.503Z",
-      "expires": "2026-12-12T12:00:02.503Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-15T14:22:40.585Z"
     },
     {
@@ -940,7 +940,7 @@
       "machine_id": "921948C80A4B5608157E91424983DC298915AF5CB60632BC83826747B82594C7",
       "enabled": true,
       "installed": "2026-11-13T12:37:31.375Z",
-      "expires": "2026-12-13T12:37:31.375Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-14T07:51:05.346Z"
     },
     {
@@ -959,7 +959,7 @@
       "machine_id": "EDA6B50A4E01D74CEE1436C4A23C2E01B9DD444F328E8D2E62AD5C7598210FA6",
       "enabled": true,
       "installed": "2026-11-13T16:10:14.147Z",
-      "expires": "2026-12-13T16:10:14.147Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-15T12:20:11.232Z"
     },
     {
@@ -968,7 +968,7 @@
       "machine_id": "AB4B62C51C579D096A9639F40CDD51A1905E4A6513873A4474EE0F5D9CE55999",
       "enabled": true,
       "installed": "2026-11-14T08:06:04.700Z",
-      "expires": "2026-12-14T08:06:04.700Z",
+      "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-14T08:07:15.436Z"
     }
   ],
