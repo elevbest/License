@@ -90,7 +90,7 @@
       "installed": "2026-10-14T13:36:32.097Z",
       "expires": "",
       "revokedAt": "2026-11-08T08:38:57.276Z",
-      "validatedAt": "2026-11-15T16:07:47.604Z"
+      "validatedAt": "2026-11-16T06:24:25.976Z"
     },
     {
       "app": "BOOKING_QUEUE",
@@ -99,7 +99,7 @@
       "enabled": true,
       "installed": "2026-10-14T14:09:24.882Z",
       "expires": "2026-12-13T15:09:00.000Z",
-      "validatedAt": "2026-11-16T06:24:24.877Z",
+      "validatedAt": "2026-11-15T11:04:06.618Z",
       "revokedAt": "2026-11-15T09:27:26.518Z"
     },
     {
