@@ -1005,7 +1005,8 @@
       "enabled": true,
       "installed": "2026-11-17T21:19:48.593Z",
       "expires": "2026-12-17T21:13:26.315Z",
-      "derived_from": "BOOKING_QUEUE"
+      "derived_from": "BOOKING_QUEUE",
+      "validatedAt": "2026-11-18T08:20:32.009Z"
     }
   ],
   "settings": {
