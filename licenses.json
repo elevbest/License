@@ -799,6 +799,12 @@
           "pc_name": "DEEWHYE-PC",
           "at": "2026-11-18T11:25:35.182Z",
           "merged_from": []
+        },
+        {
+          "machine_id": "AD9AB34B3EAE65A7874CE7C65EE300B42635A6A73FE6C7164324F62AA150F251",
+          "pc_name": "USER-PC",
+          "at": "2026-11-18T11:39:23.293Z",
+          "merged_from": []
         }
       ]
     },
