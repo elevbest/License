@@ -147,7 +147,7 @@
       "enabled": true,
       "installed": "2026-10-22T13:50:33.305Z",
       "expires": "2026-11-21T13:50:33.305Z",
-      "validatedAt": "2026-11-18T09:06:28.266Z",
+      "validatedAt": "2026-11-17T10:50:29.376Z",
       "attached": [
         {
           "machine_id": "2770C8574DCB48B0D36CF4EFE5019F56D170824F50CF811347548F1B44D55AB0",
@@ -170,7 +170,7 @@
       "enabled": true,
       "installed": "2026-10-22T13:55:02.946Z",
       "expires": "2027-01-04T22:59:59.000Z",
-      "validatedAt": "2026-11-17T10:50:59.257Z"
+      "validatedAt": "2026-11-18T09:06:28.201Z"
     },
     {
       "app": "POOL_HELPER_BET9JA",
