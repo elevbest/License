@@ -535,6 +535,12 @@
           "pc_name": "DESKTOP-ETH0TIR",
           "at": "2026-11-14T09:48:40.866Z",
           "merged_from": []
+        },
+        {
+          "machine_id": "B8BD8E10FE0E41BDE1C25EE554B68A029542130B3FF9F94AFDA0B7D76B1A2903",
+          "pc_name": "DESKTOP-TEM48JP",
+          "at": "2026-11-20T07:58:53.269Z",
+          "merged_from": []
         }
       ]
     },
