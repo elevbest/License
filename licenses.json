@@ -1050,6 +1050,14 @@
       "installed": "2026-11-21T08:22:03.297Z",
       "expires": "2026-12-21T08:22:03.297Z",
       "validatedAt": "2026-11-21T17:23:03.712Z"
+    },
+    {
+      "app": "POOL_HELPER_BET9JA",
+      "shop_id": "ENOFLOW",
+      "machine_id": "FB41A11C39AE3218D7D0E37DD659B05E7EFF0AD126B4D4E81D067D8761984D7E",
+      "enabled": true,
+      "installed": "2026-11-21T20:11:46.216Z",
+      "expires": "2026-12-21T20:11:46.216Z"
     }
   ],
   "settings": {
