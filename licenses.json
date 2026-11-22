@@ -1076,6 +1076,14 @@
       "enabled": true,
       "installed": "2026-11-22T11:29:08.665Z",
       "expires": "2026-12-22T11:29:08.665Z"
+    },
+    {
+      "app": "POOL_HELPER_BET9JA",
+      "shop_id": "FASTPOOL",
+      "machine_id": "64B6C387E272CF09889EEAC08AD2F9946F4405E1F0A2B881F8C8A4F3C06C8AF3",
+      "enabled": true,
+      "installed": "2026-11-22T13:50:12.563Z",
+      "expires": "2026-12-22T13:50:12.563Z"
     }
   ],
   "settings": {
