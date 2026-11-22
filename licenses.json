@@ -423,7 +423,7 @@
       "enabled": true,
       "installed": "2026-11-02T18:32:13.150Z",
       "expires": "2026-12-02T18:32:13.150Z",
-      "validatedAt": "2026-11-21T07:27:58.669Z",
+      "validatedAt": "2026-11-22T08:45:41.201Z",
       "attached": [
         {
           "machine_id": "790A90954F4691BF6160D84EB61BD6B4A967E630620EEEDAF2EA2B5C7C95F888",
@@ -446,7 +446,7 @@
       "enabled": true,
       "installed": "2026-11-02T19:02:12.777Z",
       "expires": "2027-01-04T22:59:59.000Z",
-      "validatedAt": "2026-11-22T08:45:39.782Z"
+      "validatedAt": "2026-11-21T07:28:47.805Z"
     },
     {
       "app": "POOL_HELPER_BETKING",
