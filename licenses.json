@@ -1075,7 +1075,8 @@
       "machine_id": "139E32B3B0B3B5DFE20A1D6154958E8BDC6245A9E512BF7A69A58412012A9911",
       "enabled": true,
       "installed": "2026-11-22T11:29:08.665Z",
-      "expires": "2026-12-22T11:29:08.665Z"
+      "expires": "2026-12-22T11:29:08.665Z",
+      "validatedAt": "2026-11-23T06:54:20.241Z"
     },
     {
       "app": "POOL_HELPER_BET9JA",
