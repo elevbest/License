@@ -696,7 +696,7 @@
       "enabled": true,
       "installed": "2026-11-08T14:50:34.006Z",
       "expires": "2027-01-04T22:59:59.000Z",
-      "validatedAt": "2026-11-23T23:00:08.977Z"
+      "validatedAt": "2026-11-23T08:11:55.809Z"
     },
     {
       "app": "POOL_HELPER_BETKING",
@@ -714,7 +714,7 @@
           "merged_from": []
         }
       ],
-      "validatedAt": "2026-11-23T06:24:53.547Z"
+      "validatedAt": "2026-11-23T23:00:09.149Z"
     },
     {
       "app": "POOL_HELPER_BET9JA",
