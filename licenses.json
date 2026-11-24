@@ -1104,6 +1104,14 @@
       "installed": "2026-11-23T12:28:21.527Z",
       "expires": "2026-12-23T12:28:21.527Z",
       "validatedAt": "2026-11-23T12:29:57.488Z"
+    },
+    {
+      "app": "POOL_HELPER_BET9JA",
+      "shop_id": "FORTY4",
+      "machine_id": "04E70F5EE058DDB578487994EB2AF74DDABAD96220A9A73C47DD474D4152C71E",
+      "enabled": true,
+      "installed": "2026-11-24T06:33:13.921Z",
+      "expires": "2026-12-24T06:33:13.921Z"
     }
   ],
   "settings": {
