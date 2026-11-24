@@ -1129,7 +1129,8 @@
       "machine_id": "C130BC7BB9B6D36A742AEA7829648A011F3B5A6C2A74BEA10452F05F24983FFB",
       "enabled": true,
       "installed": "2026-11-24T14:14:04.940Z",
-      "expires": "2026-12-24T14:14:04.940Z"
+      "expires": "2026-12-24T14:14:04.940Z",
+      "validatedAt": "2026-11-24T17:01:29.360Z"
     }
   ],
   "settings": {
