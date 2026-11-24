@@ -1113,6 +1113,14 @@
       "installed": "2026-11-24T06:33:13.921Z",
       "expires": "2026-12-24T06:33:13.921Z",
       "validatedAt": "2026-11-24T08:58:17.454Z"
+    },
+    {
+      "app": "POOL_HELPER_BET9JA",
+      "shop_id": "EVANS33758",
+      "machine_id": "01E80FEE39891FE63C1C259481FDD078B28BEBF0E081C97BBCD9A0F8C3A8C3BC",
+      "enabled": true,
+      "installed": "2026-11-24T14:00:49.791Z",
+      "expires": "2026-12-24T14:00:49.791Z"
     }
   ],
   "settings": {
