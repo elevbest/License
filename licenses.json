@@ -1111,7 +1111,8 @@
       "machine_id": "04E70F5EE058DDB578487994EB2AF74DDABAD96220A9A73C47DD474D4152C71E",
       "enabled": true,
       "installed": "2026-11-24T06:33:13.921Z",
-      "expires": "2026-12-24T06:33:13.921Z"
+      "expires": "2026-12-24T06:33:13.921Z",
+      "validatedAt": "2026-11-24T08:58:17.454Z"
     }
   ],
   "settings": {
