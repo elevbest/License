@@ -740,7 +740,7 @@
           "merged_from": []
         }
       ],
-      "validatedAt": "2026-11-26T23:00:10.394Z"
+      "validatedAt": "2026-11-26T10:16:15.419Z"
     },
     {
       "app": "POOL_HELPER_BET9JA",
@@ -894,7 +894,7 @@
       "installed": "2026-11-11T14:34:13.637Z",
       "expires": "2026-12-07T13:46:01.348Z",
       "derived_from": "BOOKING_QUEUE",
-      "validatedAt": "2026-11-25T23:00:27.397Z",
+      "validatedAt": "2026-11-26T23:00:11.879Z",
       "attached": [
         {
           "machine_id": "E62A006820FD1EBF98FEF76215BEAAE094940088F19398C5E9865DE4CE652846",
