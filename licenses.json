@@ -506,6 +506,18 @@
               "installed": "2026-11-08T18:16:55.913Z"
             }
           ]
+        },
+        {
+          "machine_id": "15F60BC2DD5151E9607A714D4E05919B939B15B6BBE8CE19E4DB842F90A811DB",
+          "pc_name": "HP-PC",
+          "at": "2026-11-26T09:32:06.688Z",
+          "merged_from": [
+            {
+              "shop_id": "JAY",
+              "expires": "2026-12-25T17:52:52.221Z",
+              "installed": "2026-11-25T17:52:52.221Z"
+            }
+          ]
         }
       ]
     },
@@ -1152,10 +1164,12 @@
       "app": "POOL_HELPER_BETKING",
       "shop_id": "JAY",
       "machine_id": "15F60BC2DD5151E9607A714D4E05919B939B15B6BBE8CE19E4DB842F90A811DB",
-      "enabled": true,
+      "enabled": false,
       "installed": "2026-11-25T17:52:52.221Z",
       "expires": "2026-12-25T17:52:52.221Z",
-      "validatedAt": "2026-11-26T07:17:24.732Z"
+      "validatedAt": "2026-11-26T07:17:24.732Z",
+      "merged_into": "13722389",
+      "merged_at": "2026-11-26T09:32:06.688Z"
     },
     {
       "app": "POOL_HELPER_BETKING",
