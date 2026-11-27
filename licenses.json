@@ -1242,6 +1242,14 @@
       "enabled": true,
       "installed": "2026-11-27T08:10:06.114Z",
       "expires": "2026-12-27T08:10:06.114Z"
+    },
+    {
+      "app": "POOL_HELPER_BET9JA",
+      "shop_id": "FESTUS",
+      "machine_id": "188E47923AEEEE6D4FD8CBF70734055267DC8D73D5B8F21A73831426EAA4BD74",
+      "enabled": true,
+      "installed": "2026-11-27T11:03:46.995Z",
+      "expires": "2026-12-27T11:03:46.995Z"
     }
   ],
   "settings": {
