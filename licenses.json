@@ -1251,6 +1251,14 @@
       "installed": "2026-11-27T11:03:46.995Z",
       "expires": "2026-12-27T11:03:46.995Z",
       "validatedAt": "2026-11-27T11:04:07.696Z"
+    },
+    {
+      "app": "BOOKING_QUEUE",
+      "shop_id": "JAYB",
+      "machine_id": "15F60BC2DD5151E9607A714D4E05919B939B15B6BBE8CE19E4DB842F90A811DB",
+      "enabled": true,
+      "installed": "2026-11-27T16:36:00.803Z",
+      "expires": "2026-12-27T16:36:00.803Z"
     }
   ],
   "settings": {
