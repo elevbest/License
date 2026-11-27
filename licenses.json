@@ -504,7 +504,7 @@
       "app": "POOL_HELPER_BETKING",
       "shop_id": "13722389",
       "machine_id": "3269EE708372CD8FCFA1021E97BEBF1B87EEA6ADC7E97EBBC550C5E45117268C",
-      "enabled": true,
+      "enabled": false,
       "installed": "2026-11-05T18:17:51.327Z",
       "expires": "2027-01-04T22:59:59.000Z",
       "validatedAt": "2026-11-27T10:33:20.772Z",
@@ -533,7 +533,9 @@
             }
           ]
         }
-      ]
+      ],
+      "merged_into": "JAYB",
+      "merged_at": "2026-11-27T17:17:38.734Z"
     },
     {
       "app": "POOL_HELPER_BETKING",
@@ -1260,6 +1262,29 @@
       "installed": "2026-11-27T16:36:00.803Z",
       "expires": "2026-12-27T16:36:00.803Z",
       "validatedAt": "2026-11-27T16:47:42.195Z"
+    },
+    {
+      "app": "POOL_HELPER_BETKING",
+      "shop_id": "JAYB",
+      "machine_id": "15F60BC2DD5151E9607A714D4E05919B939B15B6BBE8CE19E4DB842F90A811DB",
+      "enabled": true,
+      "installed": "2026-11-27T17:17:38.734Z",
+      "expires": "2026-12-27T16:36:00.803Z",
+      "derived_from": "BOOKING_QUEUE",
+      "attached": [
+        {
+          "machine_id": "3269EE708372CD8FCFA1021E97BEBF1B87EEA6ADC7E97EBBC550C5E45117268C",
+          "pc_name": "HP-PC",
+          "at": "2026-11-27T17:17:38.734Z",
+          "merged_from": [
+            {
+              "shop_id": "13722389",
+              "expires": "2027-01-04T22:59:59.000Z",
+              "installed": "2026-11-05T18:17:51.327Z"
+            }
+          ]
+        }
+      ]
     }
   ],
   "settings": {
