@@ -481,7 +481,7 @@
       "app": "POOL_HELPER_BETKING",
       "shop_id": "8994682",
       "machine_id": "A9DBBFA08261E7485A7504DF80CC3960C4F675E84A873C4A4AE7E38AEAED044D",
-      "enabled": true,
+      "enabled": false,
       "installed": "2026-11-04T13:39:31.779Z",
       "expires": "2026-12-04T13:39:31.779Z",
       "validatedAt": "2026-11-28T08:23:43.014Z",
@@ -498,7 +498,9 @@
             }
           ]
         }
-      ]
+      ],
+      "merged_into": "10993605",
+      "merged_at": "2026-11-28T08:25:45.889Z"
     },
     {
       "app": "POOL_HELPER_BETKING",
@@ -1241,7 +1243,21 @@
       "installed": "2026-11-26T17:15:56.650Z",
       "expires": "2026-12-17T21:13:26.315Z",
       "derived_from": "BOOKING_QUEUE",
-      "validatedAt": "2026-11-28T08:23:08.267Z"
+      "validatedAt": "2026-11-28T08:23:08.267Z",
+      "attached": [
+        {
+          "machine_id": "A9DBBFA08261E7485A7504DF80CC3960C4F675E84A873C4A4AE7E38AEAED044D",
+          "pc_name": "user-PC",
+          "at": "2026-11-28T08:25:45.889Z",
+          "merged_from": [
+            {
+              "shop_id": "8994682",
+              "expires": "2026-12-04T13:39:31.779Z",
+              "installed": "2026-11-04T13:39:31.779Z"
+            }
+          ]
+        }
+      ]
     },
     {
       "app": "POOL_HELPER_BETKING",
