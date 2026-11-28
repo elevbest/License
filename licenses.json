@@ -1317,6 +1317,14 @@
       "installed": "2026-11-28T09:20:41.594Z",
       "expires": "2026-12-28T09:20:41.594Z",
       "validatedAt": "2026-11-28T09:21:11.755Z"
+    },
+    {
+      "app": "POOL_HELPER_BET9JA",
+      "shop_id": "GALAXY",
+      "machine_id": "F9B6178C3137E46A77DFC4FB9D499577AD3C43C97649BE848CA0F62529AD8093",
+      "enabled": true,
+      "installed": "2026-11-28T09:29:29.304Z",
+      "expires": "2026-12-28T09:29:29.304Z"
     }
   ],
   "settings": {
