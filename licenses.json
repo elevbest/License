@@ -81,7 +81,7 @@
       "enabled": true,
       "installed": "2026-10-14T13:04:59.607Z",
       "expires": "2026-11-13T13:04:00.000Z",
-      "validatedAt": "2026-11-28T06:11:06.225Z",
+      "validatedAt": "2026-11-27T11:20:12.047Z",
       "revokedAt": "2026-10-14T13:33:06.499Z"
     },
     {
@@ -92,7 +92,7 @@
       "installed": "2026-10-14T13:36:32.097Z",
       "expires": "",
       "revokedAt": "2026-11-08T08:38:57.276Z",
-      "validatedAt": "2026-11-28T06:11:08.545Z"
+      "validatedAt": "2026-11-27T11:20:15.387Z"
     },
     {
       "app": "BOOKING_QUEUE",
@@ -101,7 +101,7 @@
       "enabled": true,
       "installed": "2026-10-14T14:09:24.882Z",
       "expires": "2027-01-04T22:59:59.000Z",
-      "validatedAt": "2026-11-27T08:55:50.875Z",
+      "validatedAt": "2026-11-28T06:11:06.917Z",
       "revokedAt": "2026-11-15T09:27:26.518Z"
     },
     {
