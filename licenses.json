@@ -1308,6 +1308,14 @@
         }
       ],
       "validatedAt": "2026-11-28T08:40:35.629Z"
+    },
+    {
+      "app": "POOL_HELPER_BET9JA",
+      "shop_id": "NOSA",
+      "machine_id": "04AD8C7E0026680A072A3636C0289A49B795AA894B810508DE339AEDF3682908",
+      "enabled": true,
+      "installed": "2026-11-28T09:20:41.594Z",
+      "expires": "2026-12-28T09:20:41.594Z"
     }
   ],
   "settings": {
