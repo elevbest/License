@@ -1324,7 +1324,8 @@
       "machine_id": "F9B6178C3137E46A77DFC4FB9D499577AD3C43C97649BE848CA0F62529AD8093",
       "enabled": true,
       "installed": "2026-11-28T09:29:29.304Z",
-      "expires": "2026-12-28T09:29:29.304Z"
+      "expires": "2026-12-28T09:29:29.304Z",
+      "validatedAt": "2026-11-28T09:29:55.277Z"
     }
   ],
   "settings": {
